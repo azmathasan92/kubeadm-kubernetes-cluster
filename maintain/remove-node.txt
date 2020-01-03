@@ -1,0 +1,3 @@
+#Remove a node from the cluster:
+
+kubectl delete node [node_name]

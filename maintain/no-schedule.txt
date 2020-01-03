@@ -1,0 +1,8 @@
+#Evict the pods on a node:
+kubectl drain [node_name] --ignore-daemonsets
+
+#Watch as the node changes status:
+kubectl get nodes -w
+
+#Schedule pods to the node after maintenance is complete:
+kubectl uncordon [node_name]
