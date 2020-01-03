@@ -7,6 +7,7 @@
 ### Steps On Worker Nodes (all worker nodes):
 - Run the worker-node.sh script file
 - Run the kubeadm join command which you have saved earlier
+- Run the below command on master node
 
             `kubectl get nodes`
 
