@@ -16,7 +16,7 @@ Add Node To the Existing cluster:
 You have sucessfully added new node to your kubernetes cluster
 
 
-Remove Node to the Existing Cluster:
+Remove Node from the Existing Cluster:
 ------------------------------------
 
           `kubectl delete node [node_name]`
