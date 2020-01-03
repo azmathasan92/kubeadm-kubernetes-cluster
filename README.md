@@ -15,3 +15,9 @@ Because you can install kubeadm on various types of machine (e.g. laptop, server
 - New users can start with kubeadm to try Kubernetes out for the first time.
 - Users familiar with Kubernetes can spin up clusters with kubeadm and test their applications.
 - Larger projects can include kubeadm as a building block in a more complex system that can also include other installer tools.
+
+IN THIS REPOSITORY WE CAN PERFORM THE FOLLOWING TASK:
+-----------------------------------------------------
+### Install Kubernetes Cluster
+### Upgrade Kubernetes Cluster
+### Maintain Kubernetes Cluster
