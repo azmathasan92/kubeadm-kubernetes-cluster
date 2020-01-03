@@ -18,6 +18,6 @@ Because you can install kubeadm on various types of machine (e.g. laptop, server
 
 IN THIS REPOSITORY WE CAN PERFORM THE FOLLOWING TASK:
 -----------------------------------------------------
-### Install Kubernetes Cluster
-### Upgrade Kubernetes Cluster
-### Maintain Kubernetes Cluster
+### Setup Kubernetes Cluster
+### Upgrade Kubernetes Cluster to Newer Version
+### Maintain Kubernetes Cluster (Add, Delete, or drain nodes)
