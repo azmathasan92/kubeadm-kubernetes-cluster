@@ -21,3 +21,5 @@ IN THIS REPOSITORY WE CAN PERFORM THE FOLLOWING TASK:
 - ### Setup Kubernetes Cluster
 - ### Upgrade Kubernetes Cluster to Newer Version
 - ### Maintain Kubernetes Cluster (Add, Delete, or drain nodes)
+
+### Note: These scripts will run only on the DEBIAN based Operation System and we have sucessfully tested it on UBUNTU 16.4 LTS version. 
