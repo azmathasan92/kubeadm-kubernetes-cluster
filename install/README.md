@@ -1,4 +1,4 @@
-# Create Kubernetes Cluster Using Kubeadm
+# Setup Kubernetes Cluster Using Kubeadm
 
 ### Steps On Master Node:
 - Run the master-node.sh script file
@@ -8,6 +8,6 @@
 - Run the worker-node.sh script file
 - Run the kubeadm join command which you have saved earlier
 
-`kubectl get nodes`
+            `kubectl get nodes`
 
 You have sucessfully created your kubernetes cluster
